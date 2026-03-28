@@ -1,0 +1,9 @@
+{
+  "prompt": "A precise, hand-colored scientific engraving in the style of a 17th-century cartographer like Joan Blaeu. The image is a detailed topographical map of a fictional, complex mountain range (representing a loss landscape) with sharp peaks and deep valleys. A single, bold, winding path is etched in red ink, showing a deliberate trajectory from a high altitude, iteratively moving downwards along the steepest slope, eventually terminating at the exact center of the deepest, darkest valley floor. The visual grammar uses strict cross-hatching to define shadows and elevation, muted indigo and ochre washes, and a cream-colored, aged paper texture. No diagrams, no charts, no modern notation, no floating labels.",
+  "model": "Flux Pro 1.1",
+  "concept": "Gradient Descent",
+  "tradition_name": "Scientific Illustration / Naturalist Engraving from the Age of Exploration",
+  "tradition_period": "16th–18th Century",
+  "tradition_approach": "Targeted precise topographical mapping and cross-hatching conventions to define a complex cost landscape; used a single ink path to visualize the iterative optimization trajectory toward the global minimum.",
+  "publish_email": true
+}
